@@ -116,7 +116,7 @@ label[for] {
 /*커스텀*/
 
 .con-min-width {
-    min-width: 1662px;
+    min-width: 1278px;
 }
 
 body {
@@ -139,7 +139,8 @@ body {
 .best-seller-box>.con {
     text-align: center;
     width: 1180px;
-    height: 685px;
+
+
 }
 
 
